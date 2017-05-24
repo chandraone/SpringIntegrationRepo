@@ -1,0 +1,5 @@
+org/springframework/integration/samples/xml/WarehouseDispatch.class
+org/springframework/integration/samples/xml/ExternalResupply.class
+org/springframework/integration/samples/xml/StockChecker.class
+org/springframework/integration/samples/xml/BookOrderProcessingTestApp.class
+org/springframework/integration/samples/xml/XmlUtil.class
